@@ -1,0 +1,1 @@
+build a discrete-event simulation model to study the behavior of an 802.11-based Wireless Local Area Network (WLAN). The first Phase of the project included the implementation of a single-server queue model. Now, in Phase II, we focus on modeling and analysis of the IEEE 802.11-based WLAN.
